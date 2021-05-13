@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Application Security as well as Bug-Bounty.
 - 🌱 I’m a Self-taught developer and practice to build and break the application vulnerability. 
 <!--- - 💞️ I’m looking to collaborate on --->
-- 📫 Feel Free to Dm me 
+- 📫 Feel Free to get in touch. 
 <a href="https://www.linkedin.com/in/vaibhav-kamdi-308164191/" rel="nofollow">
 <img src="https://github.com/DwinaTech/public-images/raw/main/linkedin-icon.png" alt="LinkedIn logo" style="max-width:100%;">
 </a><a href="https://twitter.com/kamdi_barood" rel="nofollow">
